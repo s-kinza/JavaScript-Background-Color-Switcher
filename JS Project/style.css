@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+h1{
+    color: rgb(253, 253, 253);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+#grey{
+    background-color: #6b6161;
+    border-radius: 0px ;
+    height: 500px;
+    width: 500px;
+    padding: 40px;
+    margin: 20px;
+}
+#black{
+    background-color: #131111;
+    border-radius: 0px ;
+    height: 500px;
+    width: 500px;
+    padding: 40px;
+    margin: 20px;
+}
+#blue{
+    background-color: #0c5c9e;
+    border-radius: 0px ;
+    height: 500px;
+    width: 500px;
+    padding: 40px;
+    margin: 20px;
+}
+#purple{
+    background-color: #741a7c;
+    border-radius: 0px ;
+    height: 500px;
+    width: 500px;
+    padding: 40px;
+    margin: 20px;
+}
